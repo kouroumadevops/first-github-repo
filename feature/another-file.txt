@@ -5,4 +5,5 @@ This is a local changes
 This line was added in feature-2 branch.
 
 
-Another modification
+Another modification.
+Edited in feature-2 branch
