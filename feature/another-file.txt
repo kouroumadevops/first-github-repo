@@ -2,4 +2,7 @@ This line was replaced in the feature-2 branch
 
 This is a local changes
 
-This line was added in feature-2 branch
+This line was added in feature-2 branch.
+
+
+Another modification
